@@ -2,7 +2,7 @@
 
 Basic weather station for Raspberry Pi and 7inch screen
 
-<img width=300px src="https://github.com/Ayckinn/LISAWS/blob/master/img/screenshot.png" />
+<img width=500px src="https://github.com/Ayckinn/LISAWS/blob/master/img/screenshot.png" />
 
 ## Usage
 Install virtual environment : ```sudo apt install virtualenv```
