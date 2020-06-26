@@ -9,7 +9,7 @@ WINWIDTH = 1024
 WINHEIGHT = 600
 
 # -- Elements
-CLOCK_TITLE = "LISA Weather Station - v1.0 // © Ayckinn 2020"
+CLOCK_TITLE = "LISA Weather Station - v1.1 // © Ayckinn 2020"
 BACKGROUND = pg.image.load('img/bg.png')
 ICON = pg.image.load('img/icon.gif')
 
@@ -20,6 +20,8 @@ FEW_CLOUDY_SUN = pg.image.load('img/few_cloudy_sun.png')
 FEW_CLOUDY_MOON = pg.image.load('img/few_cloudy_moon.png')
 CLOUDY_DAY = pg.image.load('img/cloudy_day.png')
 CLOUDY_NIGHT = pg.image.load('img/cloudy_night.png')
+CLOUDY_SUN = pg.image.load('img/cloudy_sun.png')
+CLOUDY_MOON = pg.image.load('img/cloudy_moon.png')
 LIGHT_RAIN_DAY = pg.image.load('img/light_rain_day.png')
 LIGHT_RAIN_NIGHT = pg.image.load('img/light_rain_night.png')
 STORM_DAY = pg.image.load('img/storm_day.png')
