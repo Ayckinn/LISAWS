@@ -20,6 +20,10 @@ Deactivate virtualenv : Just enter ```deactivate```
 ---
 
 ## Changelog
+Version 1.1 - June 26' 2020
+- Fix bugs
+- Add and update weather pics for night mode
+
 Version 1.0 - June 23' 2020
 - Initial release containing :
     - Temperature
