@@ -3,10 +3,10 @@
 
 # ===================================================
 # =    LISA WEATHER STATION                         =
-# =      - Version  : 1.0                           =
+# =      - Version  : 1.1                           =
 # =      - Author   : Ayckinn                       =
 # =      - Mail     : ayckinn@pm.me                 =
-# =      - Release  : June 23' 2020                 =
+# =      - Release  : June 26' 2020                 =
 # =      - Github   : https://github.com/Ayckinn    =
 # ===================================================
 
@@ -15,7 +15,6 @@ from ui import screen
 from updates import wupdate, loop
 
 pg.init()
-
 
 def main():
     mainwindow = screen.ClockBoard()
@@ -30,4 +29,4 @@ def main():
 
 
 if __name__ == '__main__':
-   main()
+    main()
