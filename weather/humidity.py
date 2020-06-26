@@ -19,7 +19,7 @@ class LSHumidity:
         return self.h_data
 
     def humidity_display(self, mode, color):
-        self.h_percent = " %"
+        self.h_percent = "%"
         self.h_display = str(self.humidity_request()) + self.h_percent
 
         self.screen.master.blit(mode, (630, 410))
